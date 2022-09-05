@@ -1,0 +1,152 @@
+*{
+    margin:0;
+    padding:0;
+}
+.HUB{
+padding: 2% 0%;
+}
+header img{
+    border-radius:50%;
+}
+.HUB2{
+    padding: 10% 0%;
+}
+header{
+    background: linear-gradient(to bottom, #0B3142, #0f587a) no-repeat;
+}
+
+.inicio ul li a{
+    color: white;
+}
+
+
+.NAVBAR{
+    background: linear-gradient(to bottom, #0B3142, #0B3142) no-repeat;
+    
+}
+.AAAA{
+    display: flex;
+    justify-content: center;
+}
+.texto{
+    color: #42BFDD;
+    background: linear-gradient(to bottom, #0F0326, #220952) no-repeat;
+    margin: 2% 19% 1%;
+    border-radius: 10px;
+}
+.BOTON{
+    background: linear-gradient(to bottom, #0F0326, #220952) no-repeat;
+}
+form{
+    background: linear-gradient(to bottom, #9B5094, #a8279b) no-repeat;
+    padding: 5% 0% 2% 0%;
+    margin: 0% 0% 3% 0%;
+    border-radius: 10px;
+}
+
+.muestras{
+    color: #42BFDD;
+    background: linear-gradient(to bottom, #0F0326, #220952) no-repeat;
+    margin: 5% 20% 1%;
+    border-radius: 10px;
+}
+
+.imagenes{
+    padding: 2% 10% 2%;
+    margin: 0% 30% 0% 30%;
+    display: flex;
+    justify-content: center;
+    background-color: #0F0326;
+    border-radius: 10px;
+    background: linear-gradient(to bottom, #0F0326, #220952) no-repeat;
+}
+
+
+.reseñas{
+    margin: 2% 33% 0% 33%;
+    padding: 0% 2% 0% 2%;
+    border-radius: 1%;
+    background: linear-gradient(to bottom, #0F0326, #220952) no-repeat;
+    
+}
+.reseñas h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: #42BFDD ;
+
+}
+
+footer{
+    background: linear-gradient(to bottom, #0B3142, #0f587a) no-repeat;
+    margin-top: 1%;
+    padding: 0% 0% 3% 0%;
+    border-radius: 10px;
+}
+footer small{
+    color: white;
+    margin: 15px 2px;
+}
+@media (max-width:480px){
+    .imagenes img{
+        width: 50%;
+        padding: 5% 0% 5% 5%;
+        
+    }
+    .imagenes{
+        margin: 1% 10% 0% 0%;
+    }
+    .muestras{
+        margin-top: 20%;
+    }
+    .texto{
+        margin-top: 20%;
+    }
+    .reseñas{
+        margin-top: 20%;
+    }
+    footer{
+        margin-top: 20%;
+    }
+    .reseñas{
+        margin: 2% 0% 0% 0%;
+        padding: 0% 0% 0% 0%;
+    }
+    .TIERRA img{
+        width: 0;
+    }
+    header{
+        margin: 0;
+    }
+    .JUJU ul li a{
+        color: white;
+    }
+    .AAAA{
+        display: flex;
+        justify-content: flex-start;
+    }
+    .TEEXTO{
+        margin: 0% 0% 0% 0%;
+    
+    }
+}
+
+
+
+.texto-2 h1{
+    display: flex;
+    justify-content: center;
+    margin: 5% 30% 0% 30%;
+}
+
+
+
+@media (min-width:1200px){
+    .TEEXTO{
+        margin: 0% 0% 10% 30%;
+    
+    }
+}
+
+
+
