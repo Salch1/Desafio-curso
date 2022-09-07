@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    background: #020887;
+    height: 70px;
+    padding: 15px;
+    position: sticky;
+    top: 00px;
+}
+header p{
+    color: white;
+    display: inline;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left:10px;
+}
+header img{
+    border-radius:50%;
+}
+#Header{
+    display: inline;
+    padding: 300px;
+}
+#Redes{
+    display: inline;
+    
+}
+#Sesion{
+    display: inline
+}
+body{
+    background-image: url(https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/09/19185125/via-lactea.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+.muestras h1{
+    width: 800px;
+    margin: 30px 10px 20px 15px;
+    
+}
+.muestras{
+    width: 500px;
+    height: 100px;
+    color: #550527;
+    margin: 80px 10px 10px 100px;
+    background-color: #484F53;
+    border: solid;
+    
+}
+.Paginas{
+    margin: 10px 110px 10px 120px;
+    display: inline;
+}
+#form{
+    display: inline-block;
+    margin: 70px 10px 268px 600px;
+    font-size: 20px;
+    color: #D3D0CB;
+    background-color:   #407899;
+    border: solid;
+    padding: 10px 10px 10px 0px;
+}
+
+.contactanos {
+    margin: 120px 50px 50px 850px;
+    color: #550527;
+    background-color: #484F53;
+    display: inline-block;
+    border: solid;
+}
+
+.FormularioContactanos{
+    display: block;
+    background-color: #484F53;
+    margin: 90px 800px 239px 700px;
+    border: solid;
+}
+
+.SobreNosotros{
+    margin: 120px 50px 50px 200px;
+    color: #550527;
+    background-color: #484F53;
+    display: inline-block;
+    border: solid;
+    font-size: 30px;
+}
+
+.NosotrosTexto{
+    display: inline-block;
+    background-color: #484F53;
+    margin: 20px 1000px 50px 220px;
+    border: solid;
+}
+
+.ImagenEmpresarial{
+    display: block;
+    margin: 10px 10px 88px 1500px;
+}
+
+.TituloPreguntas{
+    margin: 100px 50px 50px 120px;
+    color: #550527;
+    background-color: #484F53;
+    display: inline-block;
+    border: solid;
+    font-size: 25px;
+}
+
+.Preguntas{
+    background-color: #484F53;
+    margin: 20px 1000px 50px 220px;
+    border: solid;
+}
+
+.Respuesta{
+    background-color: #484F53;
+    margin: 10px 1000px 50px 300px;
+    border: solid #550527;
+}
+
+footer{
+    background: #343E3D;
+    padding:20px;
+    
+}
+footer p{
+    color:white;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
